@@ -1,1 +1,1 @@
-# manual-and-automation-qa
+# manual-and-automation-testing
