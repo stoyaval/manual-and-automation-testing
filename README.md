@@ -1,1 +1,1 @@
-# manual-and-automation-testing
+# manual-and-automation-testing-suite
